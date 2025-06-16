@@ -1,10 +1,4 @@
-Ottimo! Hai una ricetta leggera, saporita e bilanciata: un **couscous freddo con verdure saltate e fagioli cannellini**, perfetto per pranzo veloce, da portare in ufficio o come contorno estivo. Unisce il valore nutrizionale dei legumi, le fibre delle verdure e la delicatezza del couscous.
-
-Ecco la tua ricetta presentata in modo **dettagliato**, con **tempistiche precise**, **passaggi tecnici** e qualche consiglio utile per ottimizzarla al massimo:
-
----
-
-## 🥘 **Couscous con verdure saltate, fagioli cannellini e menta fresca**
+# 🥘 **Couscous con verdure saltate, fagioli cannellini e menta fresca**
 
 ### ⏱ Tempo totale: circa 20-25 minuti  
 ### 👨‍🍳 Difficoltà: bassa  
@@ -117,7 +111,3 @@ Ecco la tua ricetta presentata in modo **dettagliato**, con **tempistiche precis
 - **Low-carb**: riduci il couscous a 40g e aumenta le verdure o aggiungi cavolfiore grattugiato.
 - **Più proteica**: aggiungi tonno, pollo stracciato o tofu saltato.
 - **Per chi ha fretta**: usa verdure surgelate precotte o lesse.
-
----
-
-Vuoi che ti dia la versione **meal prep** per prepararne un paio in anticipo e averli sempre pronti? Oppure che lo trasformi in un formato **barbecue o picnic**? 😊
